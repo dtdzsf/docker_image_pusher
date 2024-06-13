@@ -1,1 +1,2 @@
-docker.io/nvidia/cuda:11.4.3-devel-ubuntu18.04
+nginx
+nvidia/cuda:11.4.3-devel-ubuntu18.04
