@@ -1,1 +1,2 @@
-nvidia/cuda:11.4.3-devel-ubuntu18.04
+docker.io/chenhsuanlin/colmap:3.8
+docker.io/chenhsuanlin/neuralangelo:23.04-py3
