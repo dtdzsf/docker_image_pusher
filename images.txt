@@ -1,2 +1,1 @@
-docker.io/chenhsuanlin/colmap:3.8
-docker.io/chenhsuanlin/neuralangelo:23.04-py3
+docker.io/paddlecloud/paddleocr:2.6-gpu-cuda10.2-cudnn7-latest
